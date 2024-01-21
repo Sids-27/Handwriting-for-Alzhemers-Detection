@@ -23,4 +23,4 @@ Implemented PCA and XGBoost, an efficient and scalable machine learning algorith
 
 - `code`: Contains the implementation code for SVM, Random Forests, Decision Trees, KNN, and XGBoost algorithms.
 - `data`: Includes the dataset used for training and evaluation.
-- `reports`: Holds the project report, including methodologies, results, and analysis.
+- `report`: Holds the project report, including methodologies, results, and analysis.
